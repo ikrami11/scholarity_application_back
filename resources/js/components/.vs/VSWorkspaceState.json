@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\components\\SidebarPlugin",
+    "\\layout\\dashboard",
+    "\\pages",
+    "\\pages\\UserProfile",
+    "\\router"
+  ],
+  "SelectedNode": "\\components\\SidebarPlugin\\SideBar.vue",
+  "PreviewInSolutionExplorer": false
+}

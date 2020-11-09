@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-UserProfile (2)",
+      "appliesTo": "pages/UserProfile (2).vue",
+      "type": "launch"
+    }
+  ]
+}
